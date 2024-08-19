@@ -10,8 +10,20 @@ This is a modern Cookiecutter template that can be used to initiate a Python pro
 
 ## Quickstart
 
-On your local machine, navigate to the directory in which you want to
-create a project directory. If you have cloned this repo, then run this command
+On your local machine, navigate to the directory in which you want to create a project directory, and run the following two commands:
+
+```bash
+pip install cookiecutter
+cookiecutter git@github.com:praveen-ilangovan/cookiecutter-proj-template.git
+```
+
+Alternatively, use pipx
+
+```bash
+pipx run cookiecutter git@github.com:praveen-ilangovan/cookiecutter-proj-template.git
+```
+
+If you have cloned this repo to your local directory, then run this command
 
 ```bash
 pipx run cookiecutter <PATH_TO_THE_LOCAL_REPO>
