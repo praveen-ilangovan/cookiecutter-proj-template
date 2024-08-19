@@ -31,7 +31,7 @@ pipx run cookiecutter <PATH_TO_THE_LOCAL_REPO>
 
 You will be asked to provide some details about the project, like the name, github details, etc. An option to setup git upon creating the project is also available. Once these details are provided, a new project is setup.
 
-Then CD into the project directory and nstall the environment and the pre-commit hooks with
+Then CD into the project directory and install the environment and the pre-commit hooks with
 
 ```bash
 cd <project-name>
@@ -42,6 +42,6 @@ You are now ready to start development on your project!
 
 ## Acknowledgements
 
-This project is partially based on [Florien Maas\'s](https://github.com/fpgmaas)\'s great
+This project is partially based on [Florien Maas](https://github.com/fpgmaas)\'s great
 [cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry)
 repository.
