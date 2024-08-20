@@ -7,6 +7,7 @@ This is a modern Cookiecutter template that can be used to initiate a Python pro
 - Code quality with [ruff](https://github.com/charliermarsh/ruff), [mypy](https://mypy.readthedocs.io/en/stable/), [deptry](https://github.com/fpgmaas/deptry/) and [prettier](https://prettier.io/)
 - Testing with [pytest](https://docs.pytest.org/en/7.1.x/)
 - Documentation with [MkDocs](https://www.mkdocs.org/)
+- Containerization with [Docker](https://www.docker.com/)
 
 ## Quickstart
 
